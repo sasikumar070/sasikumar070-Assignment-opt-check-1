@@ -4,4 +4,4 @@ tasks:
   - command: git remote set-url origin git@github.com:sasikumar070/sasikumar070-Assignment-opt-check.git && sed "s/\r$//" commit-command.sh | bash
 vscode:
  extensions:
-   - revaturePro.revature-labs
+  - revaturePro.revature-labs
